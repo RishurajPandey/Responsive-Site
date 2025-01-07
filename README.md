@@ -2,7 +2,7 @@
 
 ## techstack:
 
-bootstrap
-html
-css
+bootstrap,
+html,
+css,
 js
