@@ -4,5 +4,4 @@
 
 bootstrap,
 html,
-css,
-js
+css.
